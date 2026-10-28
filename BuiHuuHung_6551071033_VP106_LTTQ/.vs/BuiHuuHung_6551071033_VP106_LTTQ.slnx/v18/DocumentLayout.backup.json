@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BuiHuuHung_6551071033_VP106_LTTQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{370D958B-B38A-4E20-908F-BB9B7FC6F151}|BuiHuuHung_6551071033_VP106_LTTQ\\BuiHuuHung_6551071033_VP106_LTTQ.csproj|d:\\buihuuhung_6551071033_vp106_lttq\\buihuuhung_6551071033_vp106_lttq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370D958B-B38A-4E20-908F-BB9B7FC6F151}|BuiHuuHung_6551071033_VP106_LTTQ\\BuiHuuHung_6551071033_VP106_LTTQ.csproj|solutionrelative:buihuuhung_6551071033_vp106_lttq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370D958B-B38A-4E20-908F-BB9B7FC6F151}|BuiHuuHung_6551071033_VP106_LTTQ\\BuiHuuHung_6551071033_VP106_LTTQ.csproj|d:\\buihuuhung_6551071033_vp106_lttq\\buihuuhung_6551071033_vp106_lttq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{370D958B-B38A-4E20-908F-BB9B7FC6F151}|BuiHuuHung_6551071033_VP106_LTTQ\\BuiHuuHung_6551071033_VP106_LTTQ.csproj|solutionrelative:buihuuhung_6551071033_vp106_lttq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370D958B-B38A-4E20-908F-BB9B7FC6F151}|BuiHuuHung_6551071033_VP106_LTTQ\\BuiHuuHung_6551071033_VP106_LTTQ.csproj|d:\\buihuuhung_6551071033_vp106_lttq\\buihuuhung_6551071033_vp106_lttq\\models\\ql_banhangcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370D958B-B38A-4E20-908F-BB9B7FC6F151}|BuiHuuHung_6551071033_VP106_LTTQ\\BuiHuuHung_6551071033_VP106_LTTQ.csproj|solutionrelative:buihuuhung_6551071033_vp106_lttq\\models\\ql_banhangcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370D958B-B38A-4E20-908F-BB9B7FC6F151}|BuiHuuHung_6551071033_VP106_LTTQ\\BuiHuuHung_6551071033_VP106_LTTQ.csproj|d:\\buihuuhung_6551071033_vp106_lttq\\buihuuhung_6551071033_vp106_lttq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370D958B-B38A-4E20-908F-BB9B7FC6F151}|BuiHuuHung_6551071033_VP106_LTTQ\\BuiHuuHung_6551071033_VP106_LTTQ.csproj|solutionrelative:buihuuhung_6551071033_vp106_lttq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370D958B-B38A-4E20-908F-BB9B7FC6F151}|BuiHuuHung_6551071033_VP106_LTTQ\\BuiHuuHung_6551071033_VP106_LTTQ.csproj|d:\\buihuuhung_6551071033_vp106_lttq\\buihuuhung_6551071033_vp106_lttq\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370D958B-B38A-4E20-908F-BB9B7FC6F151}|BuiHuuHung_6551071033_VP106_LTTQ\\BuiHuuHung_6551071033_VP106_LTTQ.csproj|solutionrelative:buihuuhung_6551071033_vp106_lttq\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BuiHuuHung_6551071033_VP106_LTTQ\\BuiHuuHung_6551071033_VP106_LTTQ\\Program.cs",
+              "RelativeDocumentMoniker": "BuiHuuHung_6551071033_VP106_LTTQ\\Program.cs",
+              "ToolTip": "D:\\BuiHuuHung_6551071033_VP106_LTTQ\\BuiHuuHung_6551071033_VP106_LTTQ\\Program.cs",
+              "RelativeToolTip": "BuiHuuHung_6551071033_VP106_LTTQ\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T07:05:26.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\BuiHuuHung_6551071033_VP106_LTTQ\\BuiHuuHung_6551071033_VP106_LTTQ\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "BuiHuuHung_6551071033_VP106_LTTQ\\Models\\SanPham.cs",
+              "ToolTip": "D:\\BuiHuuHung_6551071033_VP106_LTTQ\\BuiHuuHung_6551071033_VP106_LTTQ\\Models\\SanPham.cs",
+              "RelativeToolTip": "BuiHuuHung_6551071033_VP106_LTTQ\\Models\\SanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T06:40:56.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QL_BanHangContext.cs",
+              "DocumentMoniker": "D:\\BuiHuuHung_6551071033_VP106_LTTQ\\BuiHuuHung_6551071033_VP106_LTTQ\\Models\\QL_BanHangContext.cs",
+              "RelativeDocumentMoniker": "BuiHuuHung_6551071033_VP106_LTTQ\\Models\\QL_BanHangContext.cs",
+              "ToolTip": "D:\\BuiHuuHung_6551071033_VP106_LTTQ\\BuiHuuHung_6551071033_VP106_LTTQ\\Models\\QL_BanHangContext.cs",
+              "RelativeToolTip": "BuiHuuHung_6551071033_VP106_LTTQ\\Models\\QL_BanHangContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T06:39:38.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\BuiHuuHung_6551071033_VP106_LTTQ\\BuiHuuHung_6551071033_VP106_LTTQ\\Form1.cs",
+              "RelativeDocumentMoniker": "BuiHuuHung_6551071033_VP106_LTTQ\\Form1.cs",
+              "ToolTip": "D:\\BuiHuuHung_6551071033_VP106_LTTQ\\BuiHuuHung_6551071033_VP106_LTTQ\\Form1.cs",
+              "RelativeToolTip": "BuiHuuHung_6551071033_VP106_LTTQ\\Form1.cs",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAuwEEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T06:31:44.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\BuiHuuHung_6551071033_VP106_LTTQ\\BuiHuuHung_6551071033_VP106_LTTQ\\Form1.cs",
+              "RelativeDocumentMoniker": "BuiHuuHung_6551071033_VP106_LTTQ\\Form1.cs",
+              "ToolTip": "D:\\BuiHuuHung_6551071033_VP106_LTTQ\\BuiHuuHung_6551071033_VP106_LTTQ\\Form1.cs [Design]",
+              "RelativeToolTip": "BuiHuuHung_6551071033_VP106_LTTQ\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T06:26:43.666Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
